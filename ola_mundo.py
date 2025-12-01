@@ -1,1 +1,4 @@
 print('Olá mundo')
+print(" Talia claramente a melhor de todas")
+print(" cobra voadora")
+print("black o gato mis lindo de meu mundo(Talia")
